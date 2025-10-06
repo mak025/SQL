@@ -1,0 +1,1 @@
+DBCC CHECKIDENT ('Tenant', RESEED, 12); -- reset seed value - this resets the ID to 12
