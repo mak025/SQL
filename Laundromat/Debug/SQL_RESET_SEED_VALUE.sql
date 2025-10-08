@@ -1,0 +1,1 @@
+DBCC CHECKIDENT ('Booking', RESEED, 0); -- reset seed value - this resets the ID to 12
